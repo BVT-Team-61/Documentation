@@ -2,6 +2,6 @@
 Notes, instructions, and lessons learned from team members.
 
 ## Sections
-* Configuration
-* Programming
-* Scouting
+* [Configuration](Configuration/README.md)
+* [Programming](Programming/README.md)
+* [Scouting](Scouting/README.md)
