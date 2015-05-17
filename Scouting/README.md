@@ -8,7 +8,7 @@ The process of finding teams that suit your robot, to form an alliance prior to 
 4. Edit [ScoutNet](https://github.com/BVT-Team-61/ScoutNet) to score these criteria.
 
 ### Before each event:
-1. Import list of teams from [The Blue Alliance](www.thebluealliance.com) to [ScoutNet](https://github.com/BVT-Team-61/ScoutNet#configuration).
+1. Import list of teams from [The Blue Alliance](http://www.thebluealliance.com) to [ScoutNet](https://github.com/BVT-Team-61/ScoutNet#configuration).
 2. Create a scout team of a head scouter, 2 pit scouters, and at least 6 scouters in the stands (more is better). Try to keep the same people each event with alternates for when people get tired.
 
 ### While Scouting:
