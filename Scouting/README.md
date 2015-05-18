@@ -16,4 +16,10 @@ The process of finding teams that suit your robot, to form an alliance prior to 
 * The 6+ scouters in the stands are responsible for recording data about each robot in each match (1 scouter per robot is best, although there can be less towards the end of the event).
 * The 2 pit scouters will be responsible for obtaining photos of each robot (for future reference and importing into [ScoutNet](https://github.com/BVT-Team-61/ScoutNet)) and conversing with other teams to form positive relations and strategize.
 
-### When picking alliance partners:
+### When picking alliance partners: (This should be done the night before alliance selection. NOT the day of.)
+* Start looking at each team and create a list of top picks, maybes, and no's. Once every team is in one of the three categories, rank them in order of how well they fit your team.
+* Print 1 copy of the list of top picks, maybes, and no's (this is confidential, as other teams should not see your no list).
+* Print a copy of your top picks for each of your scouters. Have 3-6 scouters in the stands watching each of these teams to make sure no major changes happen (degrading performance, dead bot, etc).
+* The event rankings are a useful starting point. But don't be afraid to eliminate a high ranking team that doesn't fit your needs.
+* [The Blue Alliance](http://www.thebluealliance.com) is a very useful resource for score breakdowns and rankings.
+* [OPR, DPR, and CCWM](http://www.theredalliance.com/scouting.html) are useful estimates for a teams overall ability, but should not be the only factor in deciding a partner.
