@@ -1,7 +1,7 @@
 # Programming
 The software that runs on the robot.
 
-## [Programming Style](style.md)
+## [Programming Style](Style/README.md)
 Indenting, naming, newlines.
 
 ## [Sensors](Sensors/README.md)
