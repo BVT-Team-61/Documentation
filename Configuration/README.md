@@ -20,9 +20,9 @@ WIP
 ### Helpful tips
 
 * Recruit additional freshmen and sophomores each year.
-* Use any windows OS 7 or later (XP is not compatible)
-* When in doubt reboot roborio.
-* Use anything, but chrome to access roborio (chrome has removed the required Silverlight plugin).
+* Use any windows OS 7 or later (XP is not compatible).
+* When in doubt reboot RoboRio.
+* Use anything, but chrome to access RoboRio (Chrome has removed the required Silverlight plugin).
 * Double check router settings.
 
 | Device         | IP Address     | Subnet Mask     |
@@ -32,11 +32,11 @@ WIP
 | Other Devices  | 10.0.61.10-255 (DHCP)            |
 
 
-* Check for firmware updates before ever competition
-* Be familiar with the WPI FIRST website and updates and help
-* Refer to Chief Delphi or javadoc for help on any code or network errors
-* Always carry Ethernet cables
+* Check for firmware updates before ever competition.
+* Be familiar with the WPI, FIRST, and NI website for updates and help.
+* Refer to Chief Delphi or Javadoc for help on any code or network errors.
+* Always carry Ethernet cables.
 * Have one school laptop dedicated to programming and loading code.
-* Have a second person sanity check your code
+* Have a second person sanity check your code.
 * Have backups for your backups (GitHub is nice, but label known working code)
 * Do not toaster!
